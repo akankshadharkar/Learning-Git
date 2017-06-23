@@ -1,11 +1,12 @@
-.basic-div{
-	background-color: purple;
+.boxes-props{
 	width: 400px;
 	height: 400px;
 }
 
+.basic-div{
+	background-color: purple;
+}
+
 .black-box{
 	background-color: black;
-	width: 400px;
-	height: 400px;
 }
